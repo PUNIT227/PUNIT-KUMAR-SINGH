@@ -1,5 +1,5 @@
 # Hi there, I'm Punit Kumar Singh 👋
-![]
+![](https://github.com/PUNIT227/PUNIT-KUMAR-SINGH/blob/main/giphy2.gif)
 ## 🚀 About Me
 
 I'm an aspiring **Data Analyst** with a background in **Computer Science** and a **Commercial Pilot License (CPL)**. My aviation experience has strengthened my analytical thinking, decision-making, attention to detail, and problem-solving skills, which I now apply to data analytics.
