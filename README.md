@@ -12,12 +12,12 @@ I enjoy transforming raw data into meaningful insights using SQL, Power BI, Exce
 
 | **Technical Skills** | **Tools & Technologies**  |
 | -------------------- | ------------------------- |
-| SQL                  | Power BI                  |
-| Advanced SQL         | DAX                       |
-| Advanced Excel       | Git & GitHub              |
-| Data Cleaning        | AI-Assisted Data Analysis |
+| Advanced SQL         | Power BI                  |
+| Advanced Excel       | DAX                       |
+| Data Cleaning        | Git & GitHub              |
 | Data Transformation  | Power BI Optimization     |
-| Data Visualization   | Business Analytics        |
+| Data Visualization   | AI-Assisted Data Analysis |
+| Business Analytics   | Microsoft Office          |
 
 
 
